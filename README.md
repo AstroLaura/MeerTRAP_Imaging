@@ -3,6 +3,8 @@ Scripts for rapid follow-up imaging using MeerKAT raw voltages, as part of the M
 
 This is the code for taking the MeerTRAP correlator products and correlating them in preparation for imaging. This work is part of my PhD thesis at the The University of Manchester. This script (in both jupyter notebook and python format) uses xGPU, DiFX, Sched, numpy, astropy, struct, and subprocess packages.
 
+Examples of the main (mkt.key), stations (stations_mkt.dat) and frequency (freq_mkt.dat) files used for Sched are included here.
+
 This code has a DOI to help you reference it quickly and easily. If you use the code in this repo, please make sure you cite it correctly!
 
 <a href="https://zenodo.org/badge/latestdoi/332645734"><img src="https://zenodo.org/badge/332645734.svg" alt="DOI"></a>
