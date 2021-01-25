@@ -1,0 +1,1280 @@
+STATION=MKTm000
+    STCODE=LA
+    CONTROL=VLBA
+    DBNAME=m000-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109243.2462 Y=2006797.8657 Z=-3239112.7373
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm001
+    STCODE=LB
+    CONTROL=VLBA
+    DBNAME=m001-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109256.5818 Y=2006813.1682 Z=-3239082.126
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm002
+    STCODE=LC
+    CONTROL=VLBA
+    DBNAME=m002-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109243.9171 Y=2006772.4952 Z=-3239127.3403
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm003
+    STCODE=LD
+    CONTROL=VLBA
+    DBNAME=m003-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109266.657 Y=2006744.4674 Z=-3239108.2839
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm004
+    STCODE=LE
+    CONTROL=VLBA
+    DBNAME=m004-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109263.6398 Y=2006681.9128 Z=-3239151.9405
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm005
+    STCODE=LF
+    CONTROL=VLBA
+    DBNAME=m005-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109241.7033 Y=2006696.4329 Z=-3239178.078
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm006
+    STCODE=LG
+    CONTROL=VLBA
+    DBNAME=m006-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109205.712 Y=2006772.4085 Z=-3239188.9832
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm007
+    STCODE=LH
+    CONTROL=VLBA
+    DBNAME=m007-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109180.998 Y=2006685.993 Z=-3239281.3577
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm008
+    STCODE=LI
+    CONTROL=VLBA
+    DBNAME=m008-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109120.0771 Y=2006657.8872 Z=-3239395.4414
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm009
+    STCODE=LJ
+    CONTROL=VLBA
+    DBNAME=m009-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109151.7501 Y=2006805.5465 Z=-3239254.3189
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm010
+    STCODE=LK
+    CONTROL=VLBA
+    DBNAME=m010-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109065.2871 Y=2006831.4555 Z=-3239375.9048
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm011
+    STCODE=LL
+    CONTROL=VLBA
+    DBNAME=m011-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109141.8763 Y=2006857.1541 Z=-3239238.0548
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm012
+    STCODE=LM
+    CONTROL=VLBA
+    DBNAME=m012-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109113.9889 Y=2006906.3786 Z=-3239252.0776
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm013
+    STCODE=LN
+    CONTROL=VLBA
+    DBNAME=m013-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109067.1981 Y=2006991.9931 Z=-3239274.0359
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm014
+    STCODE=LO
+    CONTROL=VLBA
+    DBNAME=m014-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109101.8514 Y=2007052.7292 Z=-3239181.1996
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm015
+    STCODE=LP
+    CONTROL=VLBA
+    DBNAME=m015-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109158.4813 Y=2006999.7369 Z=-3239123.5157
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm016
+    STCODE=LQ
+    CONTROL=VLBA
+    DBNAME=m016-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109146.0089 Y=2007078.1213 Z=-3239094.9384
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm017
+    STCODE=LR
+    CONTROL=VLBA
+    DBNAME=m017-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109212.7092 Y=2007009.1673 Z=-3239031.218
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm018
+    STCODE=LS
+    CONTROL=VLBA
+    DBNAME=m018-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109183.9326 Y=2006897.0427 Z=-3239146.396
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm019
+    STCODE=LT
+    CONTROL=VLBA
+    DBNAME=m019-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109141.9161 Y=2006950.4032 Z=-3239180.4917
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm020
+    STCODE=LU
+    CONTROL=VLBA
+    DBNAME=m020-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109161.8663 Y=2006878.9912 Z=-3239192.8
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm021
+    STCODE=LV
+    CONTROL=VLBA
+    DBNAME=m021-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109291.0346 Y=2006507.5012 Z=-3239215.5798
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm022
+    STCODE=LW
+    CONTROL=VLBA
+    DBNAME=m022-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109387.58 Y=2006517.0932 Z=-3239055.8123
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm023
+    STCODE=LX
+    CONTROL=VLBA
+    DBNAME=m023-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109473.019 Y=2006496.2316 Z=-3238932.5648
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm024
+    STCODE=LY
+    CONTROL=VLBA
+    DBNAME=m024-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109535.446 Y=2006544.3017 Z=-3238803.5868
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm025
+    STCODE=LZ
+    CONTROL=VLBA
+    DBNAME=m025-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109509.7 Y=2006715.8524 Z=-3238738.7384
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm026
+    STCODE=MA
+    CONTROL=VLBA
+    DBNAME=m026-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109381.6007 Y=2006754.6457 Z=-3238918.9632
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm027
+    STCODE=MB
+    CONTROL=VLBA
+    DBNAME=m027-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109312.2349 Y=2006877.3136 Z=-3238953.9012
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm028
+    STCODE=MC
+    CONTROL=VLBA
+    DBNAME=m028-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109315.2696 Y=2006780.0367 Z=-3239008.9417
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm029
+    STCODE=MD
+    CONTROL=VLBA
+    DBNAME=m029-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109311.493 Y=2006738.1555 Z=-3239040.7898
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm030
+    STCODE=ME
+    CONTROL=VLBA
+    DBNAME=m030-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109329.2508 Y=2007024.5085 Z=-3238835.8675
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm031
+    STCODE=MF
+    CONTROL=VLBA
+    DBNAME=m031-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109292.2496 Y=2007090.8821 Z=-3238853.3144
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm032
+    STCODE=MG
+    CONTROL=VLBA
+    DBNAME=m032-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109252.5743 Y=2007305.935 Z=-3238782.9734
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm033
+    STCODE=MH
+    CONTROL=VLBA
+    DBNAME=m033-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109533.1459 Y=2007544.4614 Z=-3238189.1768
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm034
+    STCODE=MI
+    CONTROL=VLBA
+    DBNAME=m034-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109194.7659 Y=2007172.112 Z=-3238959.0568
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm035
+    STCODE=MJ
+    CONTROL=VLBA
+    DBNAME=m035-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109112.9398 Y=2007170.4125 Z=-3239090.888
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm036
+    STCODE=MK
+    CONTROL=VLBA
+    DBNAME=m036-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109060.3518 Y=2007152.0037 Z=-3239185.6679
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm037
+    STCODE=ML
+    CONTROL=VLBA
+    DBNAME=m037-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108984.2505 Y=2007113.5635 Z=-3239331.2502
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm038
+    STCODE=MM
+    CONTROL=VLBA
+    DBNAME=m038-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108993.1378 Y=2006937.6651 Z=-3239425.6168
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm039
+    STCODE=MN
+    CONTROL=VLBA
+    DBNAME=m039-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108967.5628 Y=2006971.0624 Z=-3239445.5481
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm040
+    STCODE=MO
+    CONTROL=VLBA
+    DBNAME=m040-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109012.6197 Y=2006687.2346 Z=-3239548.4941
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm041
+    STCODE=MP
+    CONTROL=VLBA
+    DBNAME=m041-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109130.4265 Y=2006453.4935 Z=-3239504.0997
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm042
+    STCODE=MQ
+    CONTROL=VLBA
+    DBNAME=m042-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109252.1047 Y=2006421.5787 Z=-3239330.2606
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm043
+    STCODE=MR
+    CONTROL=VLBA
+    DBNAME=m043-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109505.3576 Y=2006232.9659 Z=-3239043.1579
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm044
+    STCODE=MS
+    CONTROL=VLBA
+    DBNAME=m044-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109944.4442 Y=2006119.3316 Z=-3238413.5477
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm045
+    STCODE=MT
+    CONTROL=VLBA
+    DBNAME=m045-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5110128.8126 Y=2005185.3941 Z=-3238700.8732
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm046
+    STCODE=MU
+    CONTROL=VLBA
+    DBNAME=m046-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5110695.4515 Y=2005800.6404 Z=-3237420.288
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm047
+    STCODE=MV
+    CONTROL=VLBA
+    DBNAME=m047-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109303.6363 Y=2006209.1645 Z=-3239378.8588
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm048
+    STCODE=MW
+    CONTROL=VLBA
+    DBNAME=m048-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5111627.01 Y=2004728.6922 Z=-3236615.1496
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm049
+    STCODE=MX
+    CONTROL=VLBA
+    DBNAME=m049-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5110859.8592 Y=2003567.5587 Z=-3238556.2616
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm050
+    STCODE=MY
+    CONTROL=VLBA
+    DBNAME=m050-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109685.4311 Y=2004775.398 Z=-3239658.2787
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm051
+    STCODE=MZ
+    CONTROL=VLBA
+    DBNAME=m051-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109283.1117 Y=2005908.8575 Z=-3239595.5034
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm052
+    STCODE=NA
+    CONTROL=VLBA
+    DBNAME=m052-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109011.1679 Y=2006078.2881 Z=-3239923.1199
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm053
+    STCODE=NB
+    CONTROL=VLBA
+    DBNAME=m053-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108720.4025 Y=2006611.3984 Z=-3240059.3351
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm054
+    STCODE=NC
+    CONTROL=VLBA
+    DBNAME=m054-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108786.2401 Y=2007564.0307 Z=-3239366.6432
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm055
+    STCODE=ND
+    CONTROL=VLBA
+    DBNAME=m055-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108946.4049 Y=2007981.3093 Z=-3238852.3003
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm056
+    STCODE=NE
+    CONTROL=VLBA
+    DBNAME=m056-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108974.9681 Y=2008418.6174 Z=-3238532.5051
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm057
+    STCODE=NF
+    CONTROL=VLBA
+    DBNAME=m057-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5110765.2696 Y=2007721.0728 Z=-3236121.9314
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm058
+    STCODE=NG
+    CONTROL=VLBA
+    DBNAME=m058-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109580.3844 Y=2009953.589 Z=-3236618.1996
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm059
+    STCODE=NH
+    CONTROL=VLBA
+    DBNAME=m059-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108354.3753 Y=2010418.1312 Z=-3238283.651
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm060
+    STCODE=NI
+    CONTROL=VLBA
+    DBNAME=m060-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5107225.769 Y=2009688.3025 Z=-3240524.6007
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm061
+    STCODE=NJ
+    CONTROL=VLBA
+    DBNAME=m061-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108250.2917 Y=2006399.0679 Z=-3240938.8982
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm062
+    STCODE=NK
+    CONTROL=VLBA
+    DBNAME=m062-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5108685.7928 Y=2005039.9408 Z=-3241093.8176
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
+STATION=MKTm063
+    STCODE=NL
+    CONTROL=VLBA
+    DBNAME=m063-MKT
+        MOUNT=ALTAZ AX1LIM=-90,450 AX2LIM=2.25,90
+        AX1RATE=83.6 AX2RATE=29.0
+        AX1ACC=0.75 AX2ACC=0.25
+        TSETTLE=6 TLEVSET=5 MINSETUP=5 DAR=RDBE2 NBBC=16
+        DISK=MARK5C   MEDIADEF=DISK    TSCAL=CONT
+        HOR_AZ =   0,  5, 10, 15, 25, 30, 40, 45, 70, 75,120,125,130,135,
+                 155,160,185,190,195,220,225,235,240,245,250,255,265,270,
+                 275,300,305,310,315,330,335,340,345,350,360
+        HOR_EL =   2,  2,  3,  2,  2,  3,  3,  4,  4,  5,  5,  4,  4,  3,
+                   3,  2,  2,  3,  4,  4,  3,  3,  4,  4,  5,  6,  6,  5,
+                   6,  6,  5,  6,  5,  5,  4,  4,  3,  2,  2
+        AXISOFF=  0.0
+        X=5109720.3198 Y=2003320.2326 Z=-3240520.8836
+        DXDT= 0.0  DYDT=  0.0  DZDT= 0.0  EPOCH=54466
+        FRAME='GEO'
+    /
